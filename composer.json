@@ -1,0 +1,17 @@
+{
+    "name": "itrax/project",
+    "description": "project task for oop",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Itrax\\Project\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "sheerien",
+            "email": "freemebabaj@gmail.com"
+        }
+    ],
+    "require": {}
+}
